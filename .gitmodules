@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/olgaviedma/olgaviedma.r-universe.dev
 	branch = HEAD
+[submodule "LadderFuelsR"]
+	path = LadderFuelsR
+	url = https://github.com/olgaviedma/LadderFuelsR
